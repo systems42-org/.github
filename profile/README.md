@@ -34,8 +34,8 @@ system development. It builds on the field-proven discipline of
 
 | | Loop | Who does what |
 |---|---|---|
-| <img src="https://systems42.org/assets/img/loops/ingest-loop.svg" width="64" alt=""> | **Capture** | Humans provide raw input. AI converts it to Markdown, organizes it into spec sections, cross-links it, and flags inconsistencies. |
-| <img src="https://systems42.org/assets/img/loops/audit-loop.svg" width="64" alt=""> | **Inspect** | AI checks the specification against rules, constraints, and guardrails, and updates the backlog with its findings. |
+| <img src="https://systems42.org/assets/img/loops/capture-loop.svg" width="64" alt=""> | **Capture** | Humans provide raw input. AI converts it to Markdown, organizes it into spec sections, cross-links it, and flags inconsistencies. |
+| <img src="https://systems42.org/assets/img/loops/inspect-loop.svg" width="64" alt=""> | **Inspect** | AI checks the specification against rules, constraints, and guardrails, and updates the backlog with its findings. |
 | <img src="https://systems42.org/assets/img/loops/clarify-loop.svg" width="64" alt=""> | **Clarify** | Humans pick a topic, discuss it with AI, and write the outcome back into the specification. |
 
 ## One specification, 18 areas
